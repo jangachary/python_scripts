@@ -1,3 +1,10 @@
+
+"""
+Prompt: Create a Snake game in Python where the snake eats a block placed  randomly inside a square. 
+After capturing the block, the snake's size  should increase by one, and each new block should appear in a different  color.
+"""
+
+
 import pygame
 import random
 import time
